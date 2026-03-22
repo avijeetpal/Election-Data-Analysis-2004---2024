@@ -85,6 +85,3 @@ This project demonstrates the complete data analysis lifecycle — from data col
 
 ---
 
----
-
-## 📁 Project Structure
